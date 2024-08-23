@@ -17,6 +17,6 @@ Attention to Detail: Every element is carefully crafted to align with the brand'
     </h3>
     <h3>
 📷 Preview
-Check out the design in action on Figma.
+Check out the design in action on [Figma.](https://www.figma.com/proto/DX2LnNwBWMFiNMELJiTMME/e-commerce-website?node-id=0-1&t=NTtaYQ4bDDaRMjlc-1 create link)
 </h3>
 
